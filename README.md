@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/activecampaign-clone →
 Most email-marketing scripts stop at "send a campaign." This platform ships with the features that actually run a marketing-automation *business*:
 
 - **Visual Automation Builder** — drag-drop automation flows with triggers, conditions, delays, and multi-channel actions — what Mailchimp and HubSpot use
-- **High-Deliverability Infra** — 
-- **Multi-Channel Campaigns** — dedicated IP warmup, DKIM/SPF/DMARC, and bounce/spam monitoring — inbox placement is product
-- **AI Send-Time Optimisation** — agencies can rebrand the entire app, resell seats, and run their own pricing — Mailchimp's largest channel
-- **White-Label + Reseller** — predicts each recipient's best open window — open rates jump 15-25% automatically
+- **High-Deliverability Infra** — dedicated IP warmup, DKIM/SPF/DMARC, and bounce/spam monitoring — inbox placement is product
+- **Multi-Channel Campaigns** — email, SMS, push, webhooks, in-app — all under one campaign and one analytics — ActiveCampaign's moat
+- **AI Send-Time Optimisation** — predicts each recipient's best open window — open rates jump 15-25% automatically
+- **White-Label + Reseller** — agencies can rebrand the entire app, resell seats, and run their own pricing — Mailchimp's largest channel
 
 ## 📦 Core Features
 
