@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,099**, transparent on the [solution page](https://miracuves.com/activecampaign-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/activecampaign-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXChimp
 {CATEGORY}        Marketing Automation & CRM Platform
 {DEMO_WEB}        mxchimp.mimeld.com
-{PRICE}           $3,099
+{PRICE}           $2,499
 {SLUG}            activecampaign-clone
 {SOLUTION_URL}    https://miracuves.com/activecampaign-clone/
 {VERTICAL}        saas_crm
